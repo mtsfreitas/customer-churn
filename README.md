@@ -1,7 +1,7 @@
 # customer-churn
 
 ## DAGSHUB + MLFLOW
-Dagshub e MLflow demonstraram ser ferramentas poderosas para  gerenciar, manter e visualizar os  experimentos.  Como pode ser observado, vários  experimentos foram executados,  onde é possível visualizar cada  hiperparâmetro utilizado, bem  como a acurácia. O melhor  modelo obteve 89%.
+Dagshub e MLflow demonstraram ser ferramentas poderosas para  gerenciar, manter e visualizar os  experimentos.  Como pode ser observado, vários  experimentos foram executados,  onde é possível visualizar cada  hiperparâmetro utilizado, bem  como a acurácia. O melhor modelo de Regressão Logística aperfeiçoado obteve **89% de acurácia.**
 
 ![image](https://github.com/mtsfreitas/customer-churn/assets/21324690/764bda0c-9602-42dc-9198-83e6aacf8a73)
 
