@@ -1,8 +1,10 @@
 # customer-churn
 
 ## Sobre o projeto
-Este projeto visa aplicar técnicas de engenharia de atributos e ajustar os parâmetros do algoritmo adotado para melhorar os resultados de classificação do problema de previsão de churn
+Este projeto visa aplicar técnicas de engenharia de atributos e ajustar os parâmetros do algoritmo de Regressão Logística para melhorar os resultados de classificação do problema de previsão de churn. 
 (https://www.kaggle.com/datasets/undersc0re/predict-the-churn-risk-rate).
+
+Além disso, foi aplicado uma técnica de Auto-ML nos dados para comparar os resultados com os obtidos pelo modelo de Regressão Logística melhorado com hiperparâmetros.
 
 ## DAGSHUB + MLFLOW
 Dagshub e MLflow demonstraram ser ferramentas poderosas para  gerenciar, manter e visualizar os  experimentos.  Como pode ser observado, vários  experimentos foram executados,  onde é possível visualizar cada  hiperparâmetro utilizado, bem  como a acurácia. O melhor modelo de Regressão Logística aperfeiçoado obteve **89% de acurácia.**
